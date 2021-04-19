@@ -2,7 +2,7 @@
 
 Page 1                |  Page 2
 :-------------------------:|:-------------------------:
-![](images/p1.png)  |  ![](images/p3.png)
+![](images/p1.png)  |  ![](images/p2.png)
 
 ## Getting Started
 
